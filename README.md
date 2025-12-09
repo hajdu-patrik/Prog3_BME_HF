@@ -5,6 +5,7 @@
 ![Architecture](https://img.shields.io/badge/Pattern-MVC-blue?style=flat)
 ![OOP](https://img.shields.io/badge/Concept-OOP_%2F_SOLID-important?style=flat)
 ![Status](https://img.shields.io/badge/Status-Educational-lightgrey?style=flat)
+
 # Blackjack Card Game (Java Swing)
 
 ## 📋 Project Overview
@@ -16,7 +17,6 @@ The application features a rich graphical user interface (GUI) built with **Java
 ---
 
 ## 🚀 Key Features
-
 ### 🎮 Gameplay Mechanics
 - **Dynamic Game Setup:** Players can customize their name and choose between 1 or 2 card decks for varied difficulty.
 - **Core Actions:** Standard Hit (draw card) and Stand (hold position) mechanics.
@@ -46,7 +46,6 @@ The application features a rich graphical user interface (GUI) built with **Java
 ---
 
 ## 📂 Project Structure
-
 The project follows the standard Gradle directory structure, with the source code divided into logical packages:
 ```
 BlackjackProject/
@@ -92,12 +91,10 @@ BlackjackProject/
 ---
 
 ## 💻 Installation and Running
-
 The project includes the Gradle Wrapper, ensuring a consistent build environment without manual Gradle installation.
 
 #### Prerequisites
 Java JDK 21 (or newer) installed and configured in JAVA_HOME.
-
 #### 1. Clone the Repository
 ```
 git clone repo-link
@@ -128,7 +125,6 @@ gradlew run
 ---
 
 ## 🧪 Testing Strategy
-
 The application maintains high test coverage using JUnit 5, focusing on business logic and edge cases.
 
 #### Key Test Cases:
