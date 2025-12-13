@@ -143,3 +143,11 @@ gradlew test --info
 ```
 ./gradlew test -info
 ```
+
+---
+
+## 📦 Releases
+
+| Version | Description | Download |
+| :--- | :--- | :--- |
+| **v1.0.0** | **Blackjack - 21 v1.0.0** - Initial stable release. Includes the full Java Swing game with save/load functionality, statistics dashboard, and JUnit tests. | [Source code (zip)](https://github.com/hajdu-patrik/Black-Jack-21_JAVA/archive/refs/tags/v1.0.0.zip) |
